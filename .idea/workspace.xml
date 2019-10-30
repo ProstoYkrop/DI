@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f95dafb3-d1a0-43ee-8e61-6a05b5225ee3" name="Default Changelist" comment="" />
+    <list default="true" id="148c7ee2-4337-4b2c-87a8-297cb734f9dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1St9CK6DtAzcBP2oYoHmI8soTPw" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SvAIzysuxtOhtMmyVBL2vkqHPJ" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -25,28 +32,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="meadowlark.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/meadowlark.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.meadowlark.js" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f95dafb3-d1a0-43ee-8e61-6a05b5225ee3" name="Default Changelist" comment="" />
-      <created>1572371896387</created>
+      <changelist id="148c7ee2-4337-4b2c-87a8-297cb734f9dc" name="Default Changelist" comment="" />
+      <created>1572433620202</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572371896387</updated>
-      <workItem from="1572371900413" duration="837000" />
-      <workItem from="1572373010489" duration="491000" />
+      <updated>1572433620202</updated>
+      <workItem from="1572433622692" duration="92000" />
     </task>
     <servers />
   </component>
